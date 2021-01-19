@@ -1,0 +1,29 @@
+{
+  "name": "speedometer",
+  "version": "1.0.0",
+  "description": "speedometer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greetsarkar/speedoMeter.git"
+  },
+  "keywords": [
+    "speedoMeter",
+    "speedometer"
+  ],
+  "author": "PRADIPTA SARKAR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greetsarkar/speedoMeter/issues"
+  },
+  "homepage": "https://github.com/greetsarkar/speedoMeter#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "justgage": "^1.4.0",
+    "uikit": "^3.6.5"
+  }
+}
