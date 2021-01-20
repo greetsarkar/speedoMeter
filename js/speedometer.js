@@ -1,4 +1,3 @@
-
 $.fn.myfunc = function (userPref) {
   var self = this;
   this.defaultProperty = {
